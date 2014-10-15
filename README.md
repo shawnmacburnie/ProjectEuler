@@ -1,3 +1,2 @@
-Mathematical problem solving!
-
-NOTE: Where the problems came from will not be release because then They can cheat and come here.
+These are solution to the problems found at project Euler site (not going to link). 
+These are for educational purposes only and are NOT to be used to cheat at making your own solution to the questions! Why do it if your going to cheat? DO NOT CHEAT!
