@@ -1,1 +1,3 @@
-These are my solutions as I go to the problems from https://projecteuler.net/problems. The goal is to complete all 484 problems on the Page!
+Mathematical problem solving!
+
+NOTE: Where the problems came from will not be release because then They can cheat and come here.
