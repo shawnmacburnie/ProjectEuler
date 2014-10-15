@@ -1,0 +1,1 @@
+These are my solutions as I go to the problems from https://projecteuler.net/problems. The goal is to complete all 484 problems on the Page!
